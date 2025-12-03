@@ -11,4 +11,4 @@ The minimal universal algorithm by which the universe manufactures negentropy th
 Paper PDF and LaTeX source coming within hours.  
 Code lives in rse.py below.
 
-Correspondence: [your real email or leave blank for now]
+Correspondence:
